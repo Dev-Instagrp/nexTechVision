@@ -163,7 +163,7 @@ class HomePage extends StatelessWidget {
                             ProfileTiles(top: 360, left: 40, title: "Designing user-centric experiences with an eye for detail and innovation", subTitle: "Rohini Raut", factor: 0.5),
                             ProfileTiles(top: 120, left: -50, title: "Crafting seamless backend solutions with visionary leadership", subTitle: "Mustkeem Baraskar", factor: 0.9),
                             ProfileTiles(top: 160, left: 380, title: "Streamlining DevOps processes for efficient and reliable delivery", subTitle: "Sakshi Rajurkar", factor: 0.4),
-                            ProfileTiles(top: 270, left: 440, title: "Ensuring robust and scalable cloud deployments for a resilient future", subTitle: "Devesh Sawarkar", factor: 1.1),
+                            ProfileTiles(top: 270, left: 440, title: "Ensuring robust and scalable cloud deployments for a resilient future.", subTitle: "Devesh Sawarkar", factor: 1.1),
                           ],
                         ),
                       )
